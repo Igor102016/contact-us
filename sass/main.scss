@@ -1,0 +1,50 @@
+
+
+
+.main-title {
+	.title-first {
+		font-family: 'Roboto', sans-serif;
+		font-size: 48px;
+		line-height: 21px;
+		font-weight: 300;
+		color: #9cd6e7;
+
+	}
+}
+
+.main-left {
+	.left-text {
+		font-family: 'Roboto', sans-serif;
+		font-size: 15px;
+		line-height: 24px;
+		color: #6e6e6e;
+		font-weight: 400;
+	}
+	a {
+		font-family: 'Roboto', sans-serif;
+		font-size: 15px;
+		line-height: 24px;
+		color: #6e6e6e;
+		font-weight: 400;
+	}
+}
+
+form {
+	padding: -15px;
+	p {
+		font-family: 'Roboto', sans-serif;
+		font-size: 15px;
+		line-height: 24px;
+		color: #6e6e6e;
+		font-weight: 400;
+
+	}
+	input {
+		width: 320px;
+	}
+	textarea {
+		width: 560px;
+		height: 165px;
+	}
+
+}
